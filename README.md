@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HareemSajid&label=Profile%20views&color=0e75b6&style=flat" alt="HareemSajid" /> </p>
 
-- 🔭 I am a motivated student pursuing a *Bachelor's degree in Computer Science.*
+🎓 CS student passionate about full-stack development and AI 
 
-- 🌱 I’m currently focusing on *Advanced web development techniques and frameworks and LeetCode*.
+🌱 Currently learning: Next.js, DSA, ML 
 
-- 💬 Ask me about *my journey into programming, my experience with web development,DSA or anything related to learning and programming.*
+💡 Interested in: Open Source, System Design, UI/UX 
 
-- 📫 How to reach me *hareemsajid9@gmail.com*
+📫 Reach me: *hareemsajid9@gmail.com* 
 
-- ⚡ Fun fact *I enjoy exploring new programming concepts and solving coding challenges.*
+- ⚡ Fun fact *I enjoy solving problems others avoid — because great code starts with brave curiosity.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
