@@ -14,7 +14,7 @@
 
 📫 Reach me: *hareemsajid9@gmail.com*
 
-⚡ Fun fact *I enjoy solving problems others avoid — because great code starts with brave curiosity.*
+⚡ Fun fact *I enjoy solving problems others avoid  because great code starts with brave curiosity.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
